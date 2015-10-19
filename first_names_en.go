@@ -1,4 +1,5 @@
 // Written by http://xojoc.pw. Public Domain.
+
 package main
 
 // First names from https://github.com/hadley/data-baby-names

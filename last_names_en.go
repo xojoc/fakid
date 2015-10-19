@@ -1,4 +1,5 @@
 // Written by http://xojoc.pw. Public Domain.
+
 package main
 
 // Last names from http://www.quietaffiliate.com/free-first-name-and-last-name-databases-csv-and-sql/

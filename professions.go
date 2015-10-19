@@ -1,4 +1,5 @@
 // Written by http://xojoc.pw. Public Domain.
+
 package main
 
 // https://careerdimension.com/SampleOccupations/FullOccupationList.cfm
