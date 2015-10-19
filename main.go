@@ -1,4 +1,6 @@
 // Written by http://xojoc.pw. Public Domain.
+
+// fakid generates a fake identity.
 package main
 
 import (
@@ -14,7 +16,7 @@ func bloodType() string {
 	return bloodTypes[rand.Intn(len(bloodTypes))] + bloodSign[rand.Intn(len(bloodSign))]
 }
 
-var likesList = []string{"Ice cream", "Kitties", "Staying up all night"}
+var likesList = []string{"Ice cream", "Kitties", "Staying up all night", "Sea", "Dancing"}
 func likes() string {
 	return likesList[rand.Intn(len(likesList))]
 }

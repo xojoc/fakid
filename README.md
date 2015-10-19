@@ -63,7 +63,9 @@ You can use [Typed.pw](http://typed.pw) to write a one-off article.
 * Countries: extend list (Only USA is used right now)
 * Height/weight
 * Age/tropical zodiac
-
+* Sport
+* Hobby
+* Avatar (but how?)
 
 # Who?
 Written by <http://xojoc.pw>
