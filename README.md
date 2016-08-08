@@ -31,6 +31,7 @@ Likes:  [Kitties]
 First [install Golang](https://golang.org/doc/install) then do
 
 ```
+go get gitlab.com/xojoc/fakid
 go install gitlab.com/xojoc/fakid
 ```
 and run
